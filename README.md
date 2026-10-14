@@ -1,5 +1,5 @@
 # MRGPRX2 virtual nanobody screen using AlphaFold-Multimer
-This repository contains code used to perform the virtual screen described in [_In silico_ discovery of nanobody binders to a G-protein coupled receptor using AlphaFold-Multimer (Harvey _et al._ 2025)](https://www.biorxiv.org/content/10.1101/2025.03.05.640882v1).
+This repository contains code used to perform the virtual screen described in [_In silico_ discovery of nanobody binders to a G-protein coupled receptor using AlphaFold-Multimer (Harvey _et al._ 2026)](https://doi.org/10.1038/s41467-026-72093-5).
 
 ### Installation guide
 To install, simply clone repository or download files and source the files `scoring.R` and `evaluation.R`. Install time on a standard desktop computer is a few seconds.
